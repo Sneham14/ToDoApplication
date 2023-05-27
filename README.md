@@ -21,7 +21,14 @@ MongoDB: A NoSQL database for efficient storage and retrieval of task data.
 HTML and CSS: Used for building the user interface and styling the application.
 
 
+1. Alltasks
+![Alltasks](Screenshots/Alltasks.png)
 
+2. CompleteTask
+![CompleteTask](Screenshots/CompleteTask.png)
+
+3. IncompleteTask
+![IncompleteTask](Screenshots/IncompleteTask.png)
 
 
 
